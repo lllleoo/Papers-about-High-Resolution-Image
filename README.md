@@ -16,14 +16,6 @@ A collection of papers on high-resolution images in recent years, including:
 
 --------------------------------------------------------------------------------------
 
-## :triangular_flag_on_post: Highlight :triangular_flag_on_post:
-<!--:triangular_flag_on_post:-->
-
-- **No pains, more gains: Recycling sub-salient patches for efficient high-resolution image recognition** `CVPR2025` <sub>![Static Badge](https://img.shields.io/badge/CVPR-grey)</sub> <br>
-  Rong Qin, Xin Liu, Xingyu Liu, Jiaxuan Liu, Jinglei Shi, Liang Lin, Jufeng Yang <br>
-
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://openaccess.thecvf.com/content_CVPR_2025/html/Chen_No_pains_more_gains_Recycling_sub-salient_patches_for_efficient_high-resolution_image_recognition_CVPR_2025_paper.html)</sub>
-
 ## High-resolution Image Recognition
 
 ### 2025
